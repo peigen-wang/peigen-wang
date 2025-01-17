@@ -12,7 +12,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/peigen-wang/count.
 ### 技术栈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peigen-wang)](https://github.com/peigen-wang/github-readme-stats)
 
-### 我的 Github
 ![](https://github-readme-stats.vercel.app/api?username=peigen-wang&count_private=true&show_icons=true&theme=radical)
 
 ### 联系我
