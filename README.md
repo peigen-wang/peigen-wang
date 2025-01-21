@@ -12,5 +12,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/peigen-wang/count.
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peigen-wang)](https://github.com/peigen-wang/github-readme-stats)
  
-### 联系我
-邮箱：peigen.wang@qq.com
+### Contact
+EMail：peigen.wang@qq.com
